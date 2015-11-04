@@ -1,0 +1,23 @@
+name: Knafo
+favicon: null
+layout_spectrum: 0.4868634371086955
+typography_spectrum: 0.11160486750304699
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.31399797182530165
+  lightness: 0.34869661927223206
+  saturation: 0.6140985076781362
+  rhythmicContrast: 0.02670011715963483
+purpose: []
